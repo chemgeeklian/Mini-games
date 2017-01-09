@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1434731307 source:e:\cproject\name war\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1434732618 source:e:\cproject\name war\judge.c
+	<time.h>
+	<stdio.h>
+
+1434732697 source:e:\cproject\name war\imp.c
+	<stdio.h>
+
+1433597971 source:e:\cproject\name war\icon\icon.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1433596286 e:\cproject\name war\icon\resource.h
+
+1433596407 source:e:\cproject\text2\icon\icon.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1427538447 e:\cproject\text2\icon\resource.h
+
+1434732697 source:e:\cproject\name war\help.c
+	<stdio.h>
+
+1433605398 source:e:\cproject\name war\egg.c
+	<stdio.h>
+
+1434732697 source:e:\cproject\name war 2.1\help.c
+	<stdio.h>
+
+1433597971 source:e:\cproject\name war 2.1\icon\icon.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1433596286 e:\cproject\name war 2.1\icon\resource.h
+
+1434732697 source:e:\cproject\name war 2.1\imp.c
+	<stdio.h>
+
+1434732618 source:e:\cproject\name war 2.1\judge.c
+	<time.h>
+	<stdio.h>
+
+1434796989 source:e:\cproject\name war 2.1\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
