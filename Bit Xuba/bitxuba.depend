@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1442235319 source:e:\cproject\bitxuba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
